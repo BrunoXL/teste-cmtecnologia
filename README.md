@@ -8,8 +8,8 @@
 ## Como Usar?
 
 Não há um ponto de entrada para a execução do programa.
-A corretude do código é feita através de testes unitários:
+A corretude do código é feita através de testes unitários.
 
-- Execute os teste da classe CmTecnologia.
+- Execute os testes da classe CmTecnologiaTest.
 
 
